@@ -1,0 +1,2 @@
+# value_check
+predicateのvalue_checkに関するデータパックサンプルになります。
