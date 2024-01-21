@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:value_check",
+    "value": 50,
+    "range": {
+      "min": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "sample_score",
+        "scale": 1
+      },
+      "max": 100
+    }
+  }
+  
